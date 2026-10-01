@@ -28,6 +28,10 @@ We're a small team of senior engineers who build, run and rescue platforms for *
 <!-- One row per repo: 320x180 thumbnail in assets/repos/<repo>.png, newest first -->
 <table>
 <tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/nvi-kps-tester"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/nvi-kps-tester.png" alt="KPS Tester" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/nvi-kps-tester"><b>KPS Tester</b></a> &nbsp;<code>Python</code><br />Runs the full NVI KPS v2 identity verification flow (WS-Trust token, signed query) from your terminal.<br /><sub><a href="https://raspiska.co/lab/nvi-kps-tester">Read the story →</a></sub></td>
+</tr>
+<tr>
 <td width="168"><a href="https://github.com/Raspiska-Ltd/local-certificate-issuer"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/local-certificate-issuer.png" alt="CertForge" width="160" /></a></td>
 <td><a href="https://github.com/Raspiska-Ltd/local-certificate-issuer"><b>CertForge</b></a> &nbsp;<code>Shell</code><br />Two-tier private CA that issues wildcard TLS certs for internal services. Bash + OpenSSL.<br /><sub><a href="https://raspiska.co/lab/local-certificate-issuer">Read the story →</a></sub></td>
 </tr>
