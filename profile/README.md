@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://raspiska.co"><img src="https://img.shields.io/badge/raspiska.co-0b1222?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>
   <a href="https://raspiska.co/lab"><img src="https://img.shields.io/badge/Lab_·_Engineering_Blog-0b1222?style=for-the-badge&logo=readdotcv&logoColor=38bdf8" alt="Lab" /></a>
-  <a href="https://www.linkedin.com/company/raspiska-tech-ltd"><img src="https://img.shields.io/badge/LinkedIn-0b1222?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
 </p>
 
 We're a small team of senior engineers who build, run and rescue platforms for **iGaming, fintech and Web3** companies. Along the way we make tools to scratch our own itches, and we share them here. Each one has a write-up on our [Lab](https://raspiska.co/lab).
