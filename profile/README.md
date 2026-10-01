@@ -1,71 +1,74 @@
-# Raspiska Tech & Consultancy
+<p align="center">
+  <a href="https://raspiska.co"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/banner.png" alt="Raspiska: The Ray Donovan for Tech Companies" width="100%" /></a>
+</p>
 
-<div align="center">
-  <img src="https://raspiska.co/images/logo/logo-color.png" alt="Raspiska Tech Logo" width="400" />
-  <h3>Infrastructure, Monitoring, and Development Solutions</h3>
-  <p>Building reliable systems for modern businesses</p>
-  
-  [![Website](https://img.shields.io/badge/Website-raspiska.co-blue)](https://raspiska.co)
-  [![Contact](https://img.shields.io/badge/Contact-info%40raspiska.co-green)](mailto:info@raspiska.co)
-</div>
+<p align="center">
+  <a href="https://raspiska.co"><img src="https://img.shields.io/badge/raspiska.co-0b1222?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>
+  <a href="https://raspiska.co/lab"><img src="https://img.shields.io/badge/Lab_·_Engineering_Blog-0b1222?style=for-the-badge&logo=readdotcv&logoColor=38bdf8" alt="Lab" /></a>
+  <a href="https://www.linkedin.com/company/raspiska-tech-ltd"><img src="https://img.shields.io/badge/LinkedIn-0b1222?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+</p>
 
-## About Raspiska Tech
+We're a small team of senior engineers who build, run and rescue platforms for **iGaming, fintech and Web3** companies. Along the way we make tools to scratch our own itches, and we share them here. Each one has a write-up on our [Lab](https://raspiska.co/lab).
 
-Raspiska Tech & Consultancy delivers specialized technical solutions for businesses requiring high-performance, scalable, and reliable infrastructure. With deep expertise across on-premise, virtualized, and cloud environments, we help organizations build and maintain robust technical foundations.
+## Latest
 
-Our team combines technical excellence with practical business understanding to deliver solutions that not only solve immediate challenges but also support long-term growth and innovation.
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Raspiska-Ltd/fancy-network-mapper"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/fancy-network-mapper.png" alt="Fancy Network Mapper live topology" width="100%" /></a></td>
+<td width="50%">
+<a href="https://github.com/Raspiska-Ltd/fancy-network-mapper"><b>Fancy Network Mapper</b></a> &nbsp;<code>Go</code>
+<p>What is talking to what, right now, and how much? A conntrack-based agent on each host and a single collector draw a live map of your fleet, with real throughput and daily HTML reports. No Docker, no database, no npm.</p>
+<sub><a href="https://github.com/Raspiska-Ltd/fancy-network-mapper/releases">Releases</a> &nbsp;·&nbsp; <a href="https://raspiska.co/lab/fancy-network-mapper">Read the story →</a></sub>
+</td>
+</tr>
+</table>
 
-## Our Services
+## Open source
 
-### 🏗️ Infrastructure Management
+<!-- One row per repo: 320x180 thumbnail in assets/repos/<repo>.png, newest first -->
+<table>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/local-certificate-issuer"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/local-certificate-issuer.png" alt="CertForge" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/local-certificate-issuer"><b>CertForge</b></a> &nbsp;<code>Shell</code><br />Two-tier private CA that issues wildcard TLS certs for internal services. Bash + OpenSSL.<br /><sub><a href="https://raspiska.co/lab/local-certificate-issuer">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/package-cleaner"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/package-cleaner.png" alt="Package Cleaner" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/package-cleaner"><b>Package Cleaner</b></a> &nbsp;<code>Swift</code><br />Native macOS app that reclaims disk space from <code>node_modules</code>, <code>target</code>, <code>Pods</code> and friends.<br /><sub><a href="https://raspiska.co/lab/package-cleaner">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/syslog-viewer"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/syslog-viewer.png" alt="Syslog Viewer" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/syslog-viewer"><b>Syslog Viewer</b></a> &nbsp;<code>JavaScript</code><br />Lightweight real-time web viewer for Kubernetes container logs.<br /><sub><a href="https://raspiska.co/lab/syslog-viewer">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/feature-toggle-service"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/feature-toggle-service.png" alt="Feature Toggle Service" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/feature-toggle-service"><b>Feature Toggle Service</b></a> &nbsp;<code>Java</code><br />Feature-flag microservice with SQLite persistence, Redis caching and whitelist/blacklist rollouts.<br /><sub><a href="https://raspiska.co/lab/feature-toggle-service">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/mac-menubar-ip-viewer"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/mac-menubar-ip-viewer.png" alt="Menubar IP Viewer" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/mac-menubar-ip-viewer"><b>Menubar IP Viewer</b></a> &nbsp;<code>Swift</code><br />Your public IP and country flag in the macOS menubar.<br /><sub><a href="https://raspiska.co/lab/mac-menubar-ip-viewer">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/jenkins-shared-lib-build-notifications"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/jenkins-shared-lib-build-notifications.png" alt="Jenkins Build Notifications" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/jenkins-shared-lib-build-notifications"><b>Jenkins Build Notifications</b></a> &nbsp;<code>Groovy</code><br />Shared library that posts rich build results to Slack and Microsoft Teams.<br /><sub><a href="https://raspiska.co/lab/jenkins-shared-lib-build-notifications">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/ai-prompt-assistant"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/ai-prompt-assistant.png" alt="AI Prompt Assistant" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/ai-prompt-assistant"><b>AI Prompt Assistant</b></a> &nbsp;<code>Python</code><br />A just-for-fun macOS menubar app that polishes prompts before they reach an AI.<br /><sub><a href="https://raspiska.co/lab/ai-prompt-assistant">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/database-size-monitor"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/database-size-monitor.png" alt="Database Size Monitor" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/database-size-monitor"><b>Database Size Monitor</b></a> &nbsp;<code>HTML</code><br />Track and compare database growth across PostgreSQL, MySQL, MongoDB and more.<br /><sub><a href="https://raspiska.co/lab/database-size-monitor">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/docker-images"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/docker-images.png" alt="Docker Images" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/docker-images"><b>Docker Images</b></a> &nbsp;<code>Shell</code><br />Redis and Valkey images with Sentinel for high availability and automatic failover.<br /><sub><a href="https://raspiska.co/lab/docker-images-repository">Read the story →</a></sub></td>
+</tr>
+<tr>
+<td width="168"><a href="https://github.com/Raspiska-Ltd/tmux-multiple"><img src="https://raw.githubusercontent.com/Raspiska-Ltd/.github/main/profile/assets/repos/tmux-multiple.png" alt="tmux-multiple" width="160" /></a></td>
+<td><a href="https://github.com/Raspiska-Ltd/tmux-multiple"><b>tmux-multiple</b></a> &nbsp;<code>Shell</code><br />Open many tmux panes at once and run synchronized commands across servers.<br /><sub><a href="https://raspiska.co/lab/terminal-multiplexers">Read the story →</a></sub></td>
+</tr>
+</table>
 
-- **On-premise Solutions**: Custom hardware configurations, server room design, and network architecture
-- **Virtualization**: VMware, KVM, and container-based solutions
-- **Load Balancing**: High-availability configurations for critical applications
-- **Cloud Services**: AWS, GCP, and Azure architecture and migration
-
-### 📊 Monitoring Solutions
-
-- **Open Source Tools**: Prometheus, Grafana, ELK Stack implementation
-- **Commercial Solutions**: New Relic, Datadog integration and optimization
-- **Custom Dashboards**: Tailored visualization for business-critical metrics
-- **Alerting Systems**: Intelligent notification systems with reduced noise
-
-### 💻 Software Development
-
-- **Betting & Gaming**: High-performance betting platforms and casino systems
-- **Lottery Systems**: Secure and compliant lottery management solutions
-- **Gamification**: Engagement-focused features for various applications
-- **Tourism Applications**: Booking systems and travel management platforms
-- **Web3 Integration**: Blockchain technology implementation for modern applications
-
-## Our Lab Projects
-
-We maintain an open collection of technical projects, tools, and educational resources in our [Lab](https://raspiska.co/lab). These projects demonstrate our technical capabilities and contribute to the broader tech community.
-
-Some of our featured projects include:
-
-- [Terminal Multiplexers](https://raspiska.co/lab/terminal-multiplexers): A comprehensive guide to tmux and GNU Screen
-- [Database Size Monitor](https://raspiska.co/lab/database-size-monitor): Tools for tracking and analyzing database growth
-- [Docker Images Repository](https://raspiska.co/lab/docker-images-repository): Custom Docker images for Redis and Valkey with Sentinel
-
-## Our Approach
-
-1. **Understand**: We begin by deeply understanding your business needs and technical challenges
-2. **Design**: We architect solutions that balance immediate requirements with long-term scalability
-3. **Implement**: Our experienced team delivers high-quality implementations with minimal disruption
-4. **Monitor**: We establish comprehensive monitoring to ensure optimal performance
-5. **Optimize**: We continuously refine and improve systems based on real-world performance data
-
-## Connect With Us
-
-- **Website**: [raspiska.co](https://raspiska.co)
-- **Email**: [info@raspiska.co](mailto:info@raspiska.co)
-- **Phone**: +90 850 2424576
-- **Address**: Istanbul, Turkey
-
----
-
-<div align="center">
-  <p>© 2025 Raspiska Tech & Consultancy. All rights reserved.</p>
-</div>
+<p align="center">
+  <sub>Need a hand with something hard? <a href="https://raspiska.co/contact">raspiska.co/contact</a></sub>
+</p>
